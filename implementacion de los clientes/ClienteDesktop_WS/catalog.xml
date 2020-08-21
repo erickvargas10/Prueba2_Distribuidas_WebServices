@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:61799/WSSoap_prueba/ServicioHoras?wsdl" uri="xml-resources/web-service-references/ServicioHoras/wsdl/localhost_61799/WSSoap_prueba/ServicioHoras.wsdl"/>
+    <system systemId="http://localhost:61799/WSSoap_prueba/ServicioHoras?xsd=1" uri="xml-resources/web-service-references/ServicioHoras/wsdl/localhost_61799/WSSoap_prueba/ServicioHoras.xsd_1.xsd"/>
+</catalog>
